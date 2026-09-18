@@ -1,0 +1,86 @@
+[
+  {
+    "model": "mistral:7b",
+    "question": "Quels sont les avantages des transformers ?",
+    "duree_secondes": 1.47,
+    "statut": "ok",
+    "nb_sources": 4
+  },
+  {
+    "model": "mistral:7b",
+    "question": "Qu'est-ce que le mécanisme d'attention dans l'architecture Transformer ?",
+    "duree_secondes": 0.74,
+    "statut": "ok",
+    "nb_sources": 4
+  },
+  {
+    "model": "mistral:7b",
+    "question": "Quels sont les points principaux abordés dans le document sur la coévolution ?",
+    "duree_secondes": 1.24,
+    "statut": "ok",
+    "nb_sources": 4
+  },
+  {
+    "model": "mistral:7b",
+    "question": "Quelle méthode est utilisée pour approximer les statistiques du fond d'ondes gravitationnelles ?",
+    "duree_secondes": 0.4,
+    "statut": "ok",
+    "nb_sources": 4
+  },
+  {
+    "model": "qwen3.6:latest",
+    "question": "Quels sont les avantages des transformers ?",
+    "duree_secondes": 12.55,
+    "statut": "ok",
+    "nb_sources": 4
+  },
+  {
+    "model": "qwen3.6:latest",
+    "question": "Qu'est-ce que le mécanisme d'attention dans l'architecture Transformer ?",
+    "duree_secondes": 12.65,
+    "statut": "ok",
+    "nb_sources": 4
+  },
+  {
+    "model": "qwen3.6:latest",
+    "question": "Quels sont les points principaux abordés dans le document sur la coévolution ?",
+    "duree_secondes": 3.69,
+    "statut": "ok",
+    "nb_sources": 4
+  },
+  {
+    "model": "qwen3.6:latest",
+    "question": "Quelle méthode est utilisée pour approximer les statistiques du fond d'ondes gravitationnelles ?",
+    "duree_secondes": 5.44,
+    "statut": "ok",
+    "nb_sources": 4
+  },
+  {
+    "model": "qwen2.5:72b",
+    "question": "Quels sont les avantages des transformers ?",
+    "duree_secondes": 16.59,
+    "statut": "ok",
+    "nb_sources": 4
+  },
+  {
+    "model": "qwen2.5:72b",
+    "question": "Qu'est-ce que le mécanisme d'attention dans l'architecture Transformer ?",
+    "duree_secondes": 9.89,
+    "statut": "ok",
+    "nb_sources": 4
+  },
+  {
+    "model": "qwen2.5:72b",
+    "question": "Quels sont les points principaux abordés dans le document sur la coévolution ?",
+    "duree_secondes": 5.9,
+    "statut": "ok",
+    "nb_sources": 4
+  },
+  {
+    "model": "qwen2.5:72b",
+    "question": "Quelle méthode est utilisée pour approximer les statistiques du fond d'ondes gravitationnelles ?",
+    "duree_secondes": 6.65,
+    "statut": "ok",
+    "nb_sources": 4
+  }
+]
